@@ -13,7 +13,7 @@
 Dự án này xây dựng **pipeline tiền xử lý dữ liệu** cho ba loại dữ liệu phổ biến trong lĩnh vực **Machine Learning**:
 
 - 🖼️ **Ảnh (Image)** — CIFAR-10  
-- 📊 **Dữ liệu dạng bảng (Tabular)** — Credit Card Fraud Detection  
+- 📊 **Dữ liệu dạng bảng (Tabular)** — Credit Card Fraud Detection  link Drive: https://drive.google.com/file/d/1EGh4ttYH7RZnOEBOM1Br-hf3v1jZcgwN/view?usp=sharing
 - 🗞️ **Văn bản (Text)** — Rumor Detection from Twitter  
 
 Mục tiêu của dự án là thực hiện các bước **làm sạch, chuẩn hóa và biểu diễn dữ liệu** để sẵn sàng cho huấn luyện mô hình học máy.
