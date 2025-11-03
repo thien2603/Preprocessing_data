@@ -93,6 +93,5 @@ seaborn
 ---
 
 ## 👨‍💻 Tác giả
-**Nguyễn Bách Khoa**  
-📧 Email: your_email@example.com  
-📅 Năm thực hiện: 2025  
+**Nguyễn Bách Khoa/ Trần Danh Thiện/ Trương Quang Huy**  
+
